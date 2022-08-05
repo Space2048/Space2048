@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **China Inner Mongolia Heli information Company**
 - 🌱 I’m currently learning **Design mode and algorithm**
-- 💬 Ask me about **Java Python and C**
+- 💬 Ask me about **Java Python C/C++ Lua**
 - 📫 How to reach me: **bailv1024@163.com**
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
