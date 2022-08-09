@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Space2048.</h2>
 <p align="center">
-  <a href="https://www.cnblogs.com/baibro/">Blog</a> •
+  <a href="http://blog.bailv1024.xyz">Blog</a> •
   <a href="https://gitee.com/Baimb">Gitee</a>
 </p>
 
